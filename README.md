@@ -1,1 +1,2 @@
-# Dissertation
+# Dissertation -Enahncing image quality using SRGAN
+This repository exclusively holds my completed dissertation for MSc Information Management program. The dissertation focuses on improving image quality using Super resolution generative adversarial networks. SRGAN model was incorporated with VGG16 pre-trained network as a feature extractor. I have used image super resolution and Div2K HR image datasets from kaggle.
